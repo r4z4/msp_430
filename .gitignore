@@ -1,0 +1,8 @@
+*.ccsproject
+*.clangd
+*.cproject
+*.project
+*.cmd
+.settings/
+Debug/
+targetConfigs/
